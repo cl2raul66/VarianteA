@@ -1,8 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<?xaml-comp compile="true" ?>
-<ResourceDictionary
-    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
-    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <x:String x:Key="GlyphAngryMonster">&#xe800;</x:String>
     <x:String x:Key="GlyphBathtub">&#xe801;</x:String>
     <x:String x:Key="GlyphBirdWings">&#xe802;</x:String>
@@ -2096,4 +2091,3 @@
     <x:String x:Key="GlyphWorld">&#xf02c;</x:String>
     <x:String x:Key="GlyphZigzag">&#xf02d;</x:String>
     <x:String x:Key="GlyphZipped">&#xf02e;</x:String>
-</ResourceDictionary>
